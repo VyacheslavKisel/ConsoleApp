@@ -12,6 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("New changes");
+            Console.WriteLine("abc");
         }
     }
 }
