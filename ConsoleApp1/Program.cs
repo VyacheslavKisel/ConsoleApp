@@ -18,6 +18,7 @@ namespace ConsoleApp1
 
         static void Task1()
         {
+            Console.WriteLine("zz");
             Console.WriteLine("Task1");
             Console.WriteLine(5);
             Console.WriteLine(8);
