@@ -20,7 +20,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Task1");
             Console.WriteLine(5);
-            Console.WriteLine(12);
+            Console.WriteLine(8);
         }
     }
 }
