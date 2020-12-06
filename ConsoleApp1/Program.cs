@@ -13,6 +13,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("New changes");
             Console.WriteLine("abc");
+            Task1();
+        }
+
+        static void Task1()
+        {
+            Console.WriteLine("Task1");
         }
     }
 }
