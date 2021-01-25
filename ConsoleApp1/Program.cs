@@ -20,19 +20,13 @@ namespace ConsoleApp1
         {
             Console.WriteLine("zz2");
             Console.WriteLine("Task1");
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
             Console.WriteLine(58);
-=======
             Console.WriteLine(10);
             Console.WriteLine(8);
->>>>>>> Stashed changes
-=======
             Console.WriteLine(58);
             Console.WriteLine(10);
             Console.WriteLine(8);
             Console.WriteLine("ff");
->>>>>>> Stashed changes
         }
     }
 }
