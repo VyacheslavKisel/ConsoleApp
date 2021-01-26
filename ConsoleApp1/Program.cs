@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("New changes");
             Console.WriteLine("abc");
             Task1();
+            Console.WriteLine("Main in program");
         }
 
         static void Task1()
